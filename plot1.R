@@ -24,4 +24,7 @@ globalActivePower <- as.numeric(data2$Global_active_power)
 png("plot1.png", width=480, height=480)
 hist(globalActivePower, col="red", main="Global Active Power", xlab="Global Active Power (kilowatts)")
 dev.off()
+<<<<<<< HEAD
 
+=======
+>>>>>>> 4c6302fc3d6828202b7b0bbad4abb419bc80ef0b
